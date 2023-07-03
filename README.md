@@ -24,3 +24,5 @@ Por último, se puede encotrar una presentación del mismo en formato ppt.
 
 El proyecto pertenece a Noelia Aparicio, Natasha Siderman y Melina Schamberger. 
 
+## Nuestra profesora fue Daniela Vargas, y nuestro tutor fue Gandhi Gonzalez.
+
